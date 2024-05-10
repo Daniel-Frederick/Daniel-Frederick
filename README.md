@@ -2,8 +2,8 @@
 
 I'm a sophomore honor student majoring in Computer Science at the University of Dayton, aspiring to become a software engineer. I have a passion for all aspects of tech and always looking for new ways to gain more experience.
 
-- <em>[Email]</em>: frederickd5@udayton.edu
-- <em>[LinkedIn]</em>:  https://www.linkedin.com/in/danielfrederick2/
+- <strong>Email</strong>: frederickd5@udayton.edu
+- <strong>LinkedIn</strong>:  https://www.linkedin.com/in/danielfrederick2/
 
 <!--
 ## About Me 🚀
