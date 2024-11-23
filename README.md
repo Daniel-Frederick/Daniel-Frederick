@@ -1,6 +1,12 @@
-# Daniel Frederick
+<h1 align="center">👋 Hi there, I'm <strong>Daniel Frederick</strong></h1>
+<p align="center">I'm Dan, a passionate <strong>student</strong> and <strong>software engineer</strong> aiming to create impactful solutions that make a difference in the world.</p>
 
-As a Computer Science student at the University of Dayton, I have acquired hands-on experience as a Software Engineer Intern at Radiance Technologies and as a Software Developer at Flyer Enterprises. These roles have provided me with the opportunity to apply my technical skills in real-world projects, contributing to both desktop and full-stack development. I’m passionate about problem-solving, continuous learning, and driving innovation through technology, and I’m always looking for new opportunities to further grow as a software engineer.
+### 🎓 **Student**  
+**University of Dayton**  
+Studying **Computer Science**  
 
-- <strong>Email</strong>: frederickd5@udayton.edu
-- <strong>LinkedIn</strong>:  https://www.linkedin.com/in/danielfrederick2/
+### 💻 **Software Engineer**  
+**Radiance Technologies**  
+Current role: **Software Engineer Intern**  
+
+**Connect with me on LinkedIn**: [Daniel Frederick](https://www.linkedin.com/in/danielfrederick2/)  
