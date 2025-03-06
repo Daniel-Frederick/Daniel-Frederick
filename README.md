@@ -9,3 +9,7 @@
 
 <h3 align="center"><strong>Connect with me on LinkedIn</strong></h3>
 <p align="center"><a href="https://www.linkedin.com/in/danielfrederick2/">Daniel Frederick</a></p>
+
+Coding Streak:
+[![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=dark)](https://git.io/streak-stats)
+
